@@ -16,13 +16,13 @@ System is first-order mass damper model, the modeling has been done in simulink 
 * system_analyis.m	//contains system parameters and response analysis 
 * discrete_transfer_function_analysis.m	//system transfer function analysis
 
-Mathematical Model and parameters :
+### Mathematical Model and parameters :
 ![alt text](https://github.com/askmuhsin/Cruise-control-design-using-PID/blob/master/resources/math_model_and_parameters.png)
 
-First Order mass damper model :
+### First Order mass damper model :
 ![alt text](https://github.com/askmuhsin/Cruise-control-design-using-PID/blob/master/resources/first_order_mass_damper_model.png)
 
-Contol systems model :
+### Contol systems model :
 ![alt text](https://github.com/askmuhsin/Cruise-control-design-using-PID/blob/master/resources/control_systems_model.png)
 
 ### Results from the simulation can be found in the results folder.
